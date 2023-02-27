@@ -1,0 +1,14 @@
+header h1 {
+    font-family: "Allerta Stencil", fanatsy;
+}
+
+.jumbotron {
+    padding: 30px;
+    background-image: linear-gradient(to right, #e482e5, #8a3519, #60106B);
+    color: white;
+}
+
+footer {
+    background-image: linear-gradient(#a8dcd6, white);
+    padding: 20px 0;
+}
