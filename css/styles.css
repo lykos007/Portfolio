@@ -11,7 +11,8 @@ header h1 {
 
 footer {
     background-image: linear-gradient(#a8dcd6, white);
-    padding: 30px;
+    padding-top: 30px;
+    padding-right: 100px;
 }
 
 .navbar {
