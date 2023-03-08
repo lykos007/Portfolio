@@ -9,13 +9,37 @@ header h1 {
     color: white;
 }
 
+#wargameJumbotron {
+    margin: 0;
+    padding: 30px;
+    background-color: black;
+    background-image: none;
+    color: red;
+}
+
 footer {
     background-image: linear-gradient(#a8dcd6, white);
     padding-top: 30px;
     padding-right: 100px;
 }
 
+#wargameFooter {
+    background-image: none;
+    background-color: black;
+    color: red;
+    padding-top: 200px;
+    padding-right: 100px;
+}
+
 .navbar {
     background-image: linear-gradient(to right, #e482e5, #8a3519, #60106B);
     color: white;
+}
+
+#wargameNav {
+    margin: 0;
+    padding: 30px;
+    background-color: black;
+    background-image: none;
+    color: red;
 }
